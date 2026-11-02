@@ -1,0 +1,4 @@
+interface:
+  display_name: "Edu Slide Creator"
+  short_description: "Create PDFs from image-generated slide PNGs"
+  default_prompt: "Use $edu-slide-creator to create image-generated slide PNGs and combine them into a verified PDF deck."
